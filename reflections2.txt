@@ -1,0 +1,8 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+
+A. When you initialize a repository, the directory is set to be the git directory. Git status lets us know of any untracked files waiting to be added to the repository.
+
+Q. How is staging area different from the working directory and the repository? What value does it offer?
+
+A. It allows us to commit more than one files at once when there is sufficient change to commit. It acts as an additional layer between working directory and repository.
+
