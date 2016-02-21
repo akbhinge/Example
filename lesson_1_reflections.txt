@@ -5,7 +5,7 @@ A1. I was clearly able to distinguish between the changes between two versions o
 
 Q. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-A.
+A. It is easier to keep track of all the changes made right from the beginning till now and help to have detailed knowledge about the work flow undertaken to create the file.
 
 Q.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
