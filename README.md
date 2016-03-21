@@ -1,4 +1,4 @@
-# Reflections-Example
+# Learn to Use Git
 
 This repository is just created to get an understanding of git and github in general
 
@@ -8,3 +8,6 @@ This repository is just created to get an understanding of git and github in gen
 4. Able to fork and create a branch of a repository
 5. Contribute to an existing repository using GIT plugin for Eclipse
 6. Learn to stage untracked data and commit
+7. Can be used for backup of all the code
+
+-- Important step in learning version control and storing and collaborating with other person for code sharing
