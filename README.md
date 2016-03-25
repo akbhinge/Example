@@ -11,4 +11,5 @@ This repository is just created to get an understanding of git and github in gen
 7. Can be used for backup of all the code
 
 -- Important step in learning version control and storing and collaborating with other person for code sharing
-A very useful version control tool!
+
+-A very useful version control tool!
