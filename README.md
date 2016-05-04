@@ -13,5 +13,5 @@ This repository is just created to get an understanding of git and github in gen
 -- Important step in learning version control and storing and collaborating with other person for code sharing
 
 -A very useful version control tool!
--Can be used to collaborate with otgers for code sharing and version storing
+
 
